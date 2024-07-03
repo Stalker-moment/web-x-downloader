@@ -1,0 +1,24 @@
+{
+  "name": "aiodownloadertest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "fluent-ffmpeg": "^2.1.3",
+    "fs": "^0.0.1-security",
+    "get-twitter-media": "^2.0.8",
+    "nayan-media-downloader": "^2.4.1",
+    "path": "^0.12.7",
+    "x-downloader": "^1.0.4"
+  }
+}
